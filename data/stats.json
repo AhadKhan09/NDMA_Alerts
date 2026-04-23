@@ -1,0 +1,9 @@
+{
+  "total_alerts": 12,
+  "critical": 2,
+  "high": 4,
+  "moderate": 4,
+  "low": 2,
+  "active_advisories": 6,
+  "regions_monitored": 8
+}

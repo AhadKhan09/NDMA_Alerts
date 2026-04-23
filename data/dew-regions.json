@@ -1,0 +1,58 @@
+[
+  {
+    "region": "Karachi Division",
+    "province": "Sindh",
+    "risk_level": "high",
+    "population_at_risk": 3420000,
+    "active_hazards": ["storm", "flood"]
+  },
+  {
+    "region": "Hyderabad Division",
+    "province": "Sindh",
+    "risk_level": "moderate",
+    "population_at_risk": 1180000,
+    "active_hazards": ["flood"]
+  },
+  {
+    "region": "Gilgit",
+    "province": "Gilgit-Baltistan",
+    "risk_level": "high",
+    "population_at_risk": 420000,
+    "active_hazards": ["glof", "landslide"]
+  },
+  {
+    "region": "Skardu",
+    "province": "Gilgit-Baltistan",
+    "risk_level": "moderate",
+    "population_at_risk": 240000,
+    "active_hazards": ["glof"]
+  },
+  {
+    "region": "Lahore Division",
+    "province": "Punjab",
+    "risk_level": "low",
+    "population_at_risk": 620000,
+    "active_hazards": ["heatwave"]
+  },
+  {
+    "region": "Quetta Division",
+    "province": "Balochistan",
+    "risk_level": "moderate",
+    "population_at_risk": 510000,
+    "active_hazards": ["landslide"]
+  },
+  {
+    "region": "Peshawar Valley",
+    "province": "Khyber Pakhtunkhwa",
+    "risk_level": "moderate",
+    "population_at_risk": 950000,
+    "active_hazards": ["flood", "storm"]
+  },
+  {
+    "region": "Muzaffarabad",
+    "province": "AJK",
+    "risk_level": "low",
+    "population_at_risk": 280000,
+    "active_hazards": []
+  }
+]

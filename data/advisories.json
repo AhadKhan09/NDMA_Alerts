@@ -1,0 +1,68 @@
+[
+  {
+    "id": "adv-001",
+    "priority": "urgent",
+    "category": "evacuation",
+    "hazard_type": "flood",
+    "title": "Floodplain Evacuation Protocol - Lower Indus",
+    "summary": "District administrations should activate phased evacuation for floodplain settlements in high-exposure corridors.",
+    "body": "1. Activate village-level warning dissemination through mosque announcements, SMS and local radio.\n2. Prioritize evacuation of elderly persons, women, children and persons with disabilities.\n3. Position rescue boats, ambulances and temporary shelters at designated assembly points.\n4. Maintain two-way communication with district emergency operation centers every 60 minutes.",
+    "regions": ["Sindh", "Jamshoro", "Dadu"],
+    "issued_at": "2026-04-22T05:45:00Z"
+  },
+  {
+    "id": "adv-002",
+    "priority": "urgent",
+    "category": "public health",
+    "hazard_type": "heatwave",
+    "title": "Heatwave Response Measures - Southern Punjab",
+    "summary": "Implement heat action plans across schools, labor sites and healthcare facilities during peak heat stress hours.",
+    "body": "1. Suspend outdoor school sports and high-intensity labor from 12:00 to 16:00 local time.\n2. Ensure ORS and potable water access in public spaces and transport hubs.\n3. Disseminate heatstroke symptom guidance via district health authorities.\n4. Prepare emergency wards for rapid triage of heat-related illness.",
+    "regions": ["Bahawalpur", "Rahim Yar Khan", "Multan"],
+    "issued_at": "2026-04-22T09:30:00Z"
+  },
+  {
+    "id": "adv-003",
+    "priority": "standard",
+    "category": "preparedness",
+    "hazard_type": "earthquake",
+    "title": "Earthquake Preparedness Checklist - Public Buildings",
+    "summary": "Routine structural and emergency readiness checks are advised for schools, hospitals and public offices.",
+    "body": "1. Verify emergency exits, stairwells and muster points are unobstructed.\n2. Conduct drop-cover-hold drills at least once per month.\n3. Secure heavy fixtures and backup critical records.\n4. Keep emergency response kits with flashlights, first aid and communication devices.",
+    "regions": ["Islamabad", "Peshawar", "Muzaffarabad"],
+    "issued_at": "2026-04-22T11:00:00Z"
+  },
+  {
+    "id": "adv-004",
+    "priority": "standard",
+    "category": "wildfire",
+    "hazard_type": "wildfire",
+    "title": "Wildfire Interface Guidance - Forest Fringe Settlements",
+    "summary": "Communities adjacent to forest belts should maintain fire breaks and enforce temporary open-burn restrictions.",
+    "body": "1. Clear dry vegetation within 30 meters of structures.\n2. Restrict agricultural residue burning during high wind periods.\n3. Pre-position water bowsers and basic fire suppression kits.\n4. Share evacuation assembly maps with local communities.",
+    "regions": ["KPK", "GB", "AJK"],
+    "issued_at": "2026-04-22T12:40:00Z"
+  },
+  {
+    "id": "adv-005",
+    "priority": "urgent",
+    "category": "coastal",
+    "hazard_type": "storm",
+    "title": "Cyclone Coastal Preparedness - Arabian Sea Belt",
+    "summary": "Coastal fishing communities should suspend sea operations and secure harbor assets.",
+    "body": "1. Suspend all deep-sea departures until further notice.\n2. Relocate small vessels to protected inlets and reinforced moorings.\n3. Stage emergency shelter supplies in inland reception points.\n4. Maintain hourly weather bulletin relay for union councils.",
+    "regions": ["Karachi", "Thatta", "Badin"],
+    "issued_at": "2026-04-22T13:10:00Z"
+  },
+  {
+    "id": "adv-006",
+    "priority": "standard",
+    "category": "water security",
+    "hazard_type": "drought",
+    "title": "Water Conservation Advisory - Arid Districts",
+    "summary": "Implement district-level rationing plans and prioritize drinking water supply continuity.",
+    "body": "1. Coordinate tanker logistics for vulnerable settlements.\n2. Protect critical livestock watering points.\n3. Encourage staggered irrigation schedules and leakage control.\n4. Monitor groundwater abstraction rates weekly.",
+    "regions": ["Tharparkar", "Cholistan", "Kharan"],
+    "issued_at": "2026-04-22T15:20:00Z"
+  }
+]
